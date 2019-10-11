@@ -1,2 +1,2 @@
 # Project-IoT
-Tugas Akhir
+Berdasarkan hasil penelitian dilapangan, peneliti bermaksud membuatkan sebuah sistem yang dapat menjadi solusi dari permasalahan tersebut yaitu dengan merancang dan membangun Sistem Monitoring Pendeteksi Kebocoran Pipa di UPT Air Minum Kota Cimahi. Nantinya  hasil dari pemantauan aliran debit air yang mengalir dari reservoir menuju zonasi wilayah distribusi pipa akan di jadikan indikator sistem untuk memperkirakan apakah berpotensi terjadi kebocoran atau tidak. Sehingga di harapkan dengan adanya sistem ini dapat membantu petugas agar dapat mengefisienkan waktu. Sehingga pelayanan yang diberikan kepada masyarakat akan terus meningkat.
