@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff8000",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "nama_pipa": "sekunder",
+        "jenis_pipa": "GIP",
+        "fill": "#ff8000"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.55130290985107,
+            -6.881293049688892
+          ],
+          [
+            107.5517964363098,
+            -6.882107892643653
+          ]
+        ]
+      }
+    }
+  ]
+}
