@@ -1,18 +1,3 @@
-<?php 
-//session_start();
-//include_once'include/lib_inc.php';
-
-//$error_reporting = E_ALL & ~(E_NOTICE | E_DEPRECATED | E_STRICT);
-//error_reporting($error_reporting);
-//$time_server   = date( 'O' ) / 100;
-//$time_offset = TIME_OFFSET - $time_server;
-//setlocale (LC_TIME, TIME_LOCALE);
-
-	
-
-?>
-
-
 <!DOCTYPE html>
 <html>	
 <head>
